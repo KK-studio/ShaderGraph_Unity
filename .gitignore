@@ -3,3 +3,5 @@
 /Logs
 /Assembly-CSharp.csproj
 /Assembly-CSharp-Editor.csproj
+/.idea
+/obj
